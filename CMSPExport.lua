@@ -1,5 +1,5 @@
 CMSPExport = {}
-CMSPExport.HOST = "localhost"
+CMSPExport.HOST = "127.0.0.1"
 CMSPExport.PORT = 7777
 
 package.path  = package.path..";.\\LuaSocket\\?.lua"
