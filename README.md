@@ -1,6 +1,8 @@
 dcs-arduino-example
 ===================
 
+**Note: This is an old example. I suggest using [DCS-BIOS](https://github.com/dcs-bios/dcs-bios) instead.**
+
 An Arduino sketch and matching Export.lua file.
 
 * Displays the contents of the CMSP on a 20x2 character LCD attached to the Arduino
